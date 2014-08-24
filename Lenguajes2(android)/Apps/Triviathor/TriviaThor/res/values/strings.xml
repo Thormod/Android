@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TriviaThor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="log_out">Log Out</string>
+    <string name="single_player">Single Player</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="top_scores">Top Scores</string>
+    <string name="options">Options</string>
+    <string name="log_in">Log In</string>
+    <string name="connect_using_facebook">Connect using facebook</string>
+    <string name="exit">Exit</string>
+
+</resources>
